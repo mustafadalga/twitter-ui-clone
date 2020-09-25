@@ -1,4 +1,4 @@
-# Twitter Landing Page UI Clone
+#  Twitter Responsive Landing Page UI Clone
 
 ### Demo
 * [Twitter](https://twitter-landing-page.netlify.app/)
