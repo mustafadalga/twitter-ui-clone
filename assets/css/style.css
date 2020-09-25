@@ -94,6 +94,7 @@ main {
 }
 
 .right .content {
+    max-width: 80%;
     width: 24rem;
 }
 
