@@ -1,4 +1,4 @@
-#  Twitter Responsive Landing Page UI Clone
+#  Twitter Landing Page Responsive UI Clone
 
 ### Demo
 * [Github Pages](https://mustafadalga.github.io/twitter-ui-clone/)
